@@ -1,0 +1,35 @@
+.logon-container{
+    width: 100%;
+    max-width: 1120px;
+    height: 100vh;
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logon-container{
+    width: 100%;
+    /*max-width: 350px;*/
+   /* margin-right: 30px;*/
+}
+
+.logon-container section.form form{
+    display: flex;
+    flex-direction: column;
+}
+
+.form-box{
+    margin-right: 0px;
+}
+
+.form{
+    margin-bottom: 100px;
+}
+
+.faca-logon{
+    font-size: 25px;
+    margin-bottom: 16px;
+}
+
